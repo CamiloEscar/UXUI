@@ -1,0 +1,79 @@
+.header {
+    text-align: center;
+    height: 300px;
+    padding: 12px;
+    background-image: url(../perfil\ personal/img/imagenfondo.jpg);
+    top: 1rem;
+    right: 1rem;
+    border: 0;
+    border-radius: 8px;
+    padding: 12px 25px;
+    color: #fff;
+}
+
+.avatar {
+    border-radius: 50%;
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    border: 7px solid #FFFFFF;
+    background-color: #DFE5F2;
+    border-radius: 50%;
+    box-shadow: 0 0 12px rgba(0, 0, 0, .2);
+    bottom: -30px;
+    z-index: 1;
+}
+
+.back {
+    background-color: rgba(226, 226, 217, 0.753);
+}
+.user-name {
+    font-size: 18px;
+    margin-top: 14px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.nombre {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 14px;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+    color: black
+
+}
+
+.informacion {
+    text-align: center;
+    color: #848484;
+    font-size: 0.95em;
+    margin-top: 14px;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.contacto {
+    text-align: justify;
+    color: black;
+    font-size: 1.35em;
+    margin-top: 14px;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.imagenes .icons {
+
+    width: 220px;
+    margin-top: 10px;
+    height: 100px;
+    display: flex;
+    justify-items: flex-end;
+    justify-self: end;
+    margin-right: 50px;
+    margin-left: 500px;
+}
